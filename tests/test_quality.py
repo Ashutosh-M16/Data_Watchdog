@@ -1,5 +1,5 @@
 import pandas as pd
-from src.preprocessin[g] import cleaner
+from src.preprocessing import cleaner
 
 
 def test_quality_report():
